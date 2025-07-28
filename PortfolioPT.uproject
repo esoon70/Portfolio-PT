@@ -8,6 +8,10 @@
 			"Name": "ScreenFade",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c3edf2a04e0b4ec5a3940a4c35268972"
+		},
+		{
+			"Name": "CascadeToNiagaraConverter",
+			"Enabled": true
 		}
 	]
 }
